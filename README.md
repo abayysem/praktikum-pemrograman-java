@@ -1,4 +1,6 @@
 # GameZone Rental PS
+Nama : Akbar Syam Al Ghamar
+NIM  : C2483207013
 
 ## Deskripsi
 GameZone Rental PS adalah aplikasi console berbasis Java untuk menghitung biaya penyewaan PlayStation 4 dan PlayStation 5.
