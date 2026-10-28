@@ -26,4 +26,4 @@ GameZone Rental PS adalah aplikasi console berbasis Java untuk menghitung biaya 
 ## Screenshot Output
 Simpan screenshot hasil program di folder `screenshots` dengan nama `hasil-program.png`.
 
-![Screenshot hasil program](screenshots/hasil-program.png)
+![Screenshot hasil program](Screenshots.png)
